@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Noxe-Movies/static/css/main.608afb46.css",
+    "main.js": "/Noxe-Movies/static/js/main.cdd7c494.js",
+    "static/media/bootstrap.bundle.min.js.map": "/Noxe-Movies/static/media/bootstrap.bundle.min.js.42ec9d4aff8d78642c2a.map",
+    "static/media/fa-solid-900.woff2": "/Noxe-Movies/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/Noxe-Movies/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/Noxe-Movies/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/fa-v4compatibility.woff2": "/Noxe-Movies/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "static/media/logo.svg": "/Noxe-Movies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Noxe-Movies/index.html",
+    "main.608afb46.css.map": "/Noxe-Movies/static/css/main.608afb46.css.map",
+    "main.cdd7c494.js.map": "/Noxe-Movies/static/js/main.cdd7c494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608afb46.css",
+    "static/js/main.cdd7c494.js"
+  ]
+}
